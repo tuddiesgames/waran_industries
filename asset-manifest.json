@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/waran_industries/static/css/main.c9e5d42b.css",
+    "main.js": "/waran_industries/static/js/main.e1e49c1b.js",
+    "static/js/284.fa756725.chunk.js": "/waran_industries/static/js/284.fa756725.chunk.js",
+    "static/js/738.e279494a.chunk.js": "/waran_industries/static/js/738.e279494a.chunk.js",
+    "static/js/923.a7ebca5e.chunk.js": "/waran_industries/static/js/923.a7ebca5e.chunk.js",
+    "static/js/627.6bd7ceed.chunk.js": "/waran_industries/static/js/627.6bd7ceed.chunk.js",
+    "static/js/938.6fbe5f4d.chunk.js": "/waran_industries/static/js/938.6fbe5f4d.chunk.js",
+    "static/js/247.53c5cf46.chunk.js": "/waran_industries/static/js/247.53c5cf46.chunk.js",
+    "static/js/82.6d43be3c.chunk.js": "/waran_industries/static/js/82.6d43be3c.chunk.js",
+    "static/js/768.0777ef98.chunk.js": "/waran_industries/static/js/768.0777ef98.chunk.js",
+    "static/js/834.a06d8066.chunk.js": "/waran_industries/static/js/834.a06d8066.chunk.js",
+    "static/media/agriRobot.jpeg": "/waran_industries/static/media/agriRobot.792d0029fe9891adc4e6.jpeg",
+    "static/media/robot hand.webp": "/waran_industries/static/media/robot hand.cd492f49afe3b17200a5.webp",
+    "static/media/Gallery Background.jpeg": "/waran_industries/static/media/Gallery Background.30400e1b6d99d41eb0c8.jpeg",
+    "static/media/tuddies.png": "/waran_industries/static/media/tuddies.0220f7bd86bddf7b5317.png",
+    "index.html": "/waran_industries/index.html",
+    "main.c9e5d42b.css.map": "/waran_industries/static/css/main.c9e5d42b.css.map",
+    "main.e1e49c1b.js.map": "/waran_industries/static/js/main.e1e49c1b.js.map",
+    "284.fa756725.chunk.js.map": "/waran_industries/static/js/284.fa756725.chunk.js.map",
+    "738.e279494a.chunk.js.map": "/waran_industries/static/js/738.e279494a.chunk.js.map",
+    "923.a7ebca5e.chunk.js.map": "/waran_industries/static/js/923.a7ebca5e.chunk.js.map",
+    "627.6bd7ceed.chunk.js.map": "/waran_industries/static/js/627.6bd7ceed.chunk.js.map",
+    "938.6fbe5f4d.chunk.js.map": "/waran_industries/static/js/938.6fbe5f4d.chunk.js.map",
+    "247.53c5cf46.chunk.js.map": "/waran_industries/static/js/247.53c5cf46.chunk.js.map",
+    "82.6d43be3c.chunk.js.map": "/waran_industries/static/js/82.6d43be3c.chunk.js.map",
+    "768.0777ef98.chunk.js.map": "/waran_industries/static/js/768.0777ef98.chunk.js.map",
+    "834.a06d8066.chunk.js.map": "/waran_industries/static/js/834.a06d8066.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e5d42b.css",
+    "static/js/main.e1e49c1b.js"
+  ]
+}
