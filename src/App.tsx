@@ -3,13 +3,13 @@ import {
   setupIonicReact
 } from '@ionic/react';
 import React from 'react';
-import Header from './common/Header.tsx';
+import Main from './Tabs/Main.tsx';
 
 setupIonicReact();
 
 const App: React.FC = () => (
   <IonApp>
-    <Header />
+    <Main />
   </IonApp>
 );
 

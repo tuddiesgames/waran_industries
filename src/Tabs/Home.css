@@ -1,0 +1,11 @@
+.page {
+    background-image: url("../images/robot hand.webp");
+}
+.galleryBackground {
+    background-repeat: no-repeat;
+    background-image: url("../images/Gallery Background.jpeg");
+}
+
+.softwares {
+    background-color: #0A0A0A;
+}
