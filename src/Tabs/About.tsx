@@ -40,7 +40,7 @@ const About = ()=>{
         </div>
         <div className="h-60 "></div>
         <div className="h-60 bg-slate-100 flex flex-col justify-end">
-            <h4 className="text-center mb-5">Copyright © 2024 WaranIndustries</h4>
+            <h4 className="text-center mb-5 underline">Copyright © 2024 WaranIndustries</h4>
         </div>
         </div>
 
