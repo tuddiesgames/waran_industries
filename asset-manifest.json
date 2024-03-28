@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/waranindustries/static/css/main.3a805e97.css",
-    "main.js": "/waranindustries/static/js/main.9aeffca0.js",
+    "main.js": "/waranindustries/static/js/main.45644846.js",
     "static/js/284.fa756725.chunk.js": "/waranindustries/static/js/284.fa756725.chunk.js",
     "static/js/738.e279494a.chunk.js": "/waranindustries/static/js/738.e279494a.chunk.js",
     "static/js/923.a7ebca5e.chunk.js": "/waranindustries/static/js/923.a7ebca5e.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/robot.jpeg": "/waranindustries/static/media/robot.f4df2f56799b8c4a7fc5.jpeg",
     "index.html": "/waranindustries/index.html",
     "main.3a805e97.css.map": "/waranindustries/static/css/main.3a805e97.css.map",
-    "main.9aeffca0.js.map": "/waranindustries/static/js/main.9aeffca0.js.map",
+    "main.45644846.js.map": "/waranindustries/static/js/main.45644846.js.map",
     "284.fa756725.chunk.js.map": "/waranindustries/static/js/284.fa756725.chunk.js.map",
     "738.e279494a.chunk.js.map": "/waranindustries/static/js/738.e279494a.chunk.js.map",
     "923.a7ebca5e.chunk.js.map": "/waranindustries/static/js/923.a7ebca5e.chunk.js.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.3a805e97.css",
-    "static/js/main.9aeffca0.js"
+    "static/js/main.45644846.js"
   ]
 }
