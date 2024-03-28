@@ -40,7 +40,7 @@ const Header = () => {
         <div className={`flex justify-between fixed w-full top-0 transition-all duration-300 `}>
             <div className="mt-5">
                 <h2 className='sizw-2'>{Name}</h2>
-                <h1 className='text-5xl' style={{ color: '#ECAF0F' }}>waraindustries</h1>
+                <h1 className='text-5xl' style={{ color: '#ECAF0F' }}>waran industries</h1>
             </div>
             {
                 isHeaderVisible ? (
