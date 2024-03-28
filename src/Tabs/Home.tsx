@@ -6,7 +6,7 @@ import Header from '../common/Header.tsx'
 const Home  = ()=>{
 
     return(
-            <IonPage className="page p-10" id="Home">
+            <IonPage className="page p-10 w-full h-full bg-cover bg-center" id="Home">
 
                 <Header />
 

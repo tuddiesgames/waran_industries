@@ -9,7 +9,6 @@ setupIonicReact();
 
 const App: React.FC = () => (
   <IonApp>
-    <div>hiiii</div>
     <Main />
   </IonApp>
 );
